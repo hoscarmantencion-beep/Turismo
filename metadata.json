@@ -1,0 +1,10 @@
+{
+  "name": "RutaGastos AI & Navegador Vial",
+  "description": "Calculadora inteligente de combustible, TAG y peajes con IA, navegación GPS en tiempo real para vehículo, localización de CESFAM, postas, hospitales, servicentros y alertas de ruta.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
